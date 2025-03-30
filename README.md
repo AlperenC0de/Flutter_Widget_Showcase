@@ -1,6 +1,62 @@
 # flutter_application_5
 
-A new Flutter project.
+A new Flutter project.Widget Usage App
+
+This is a Flutter application that demonstrates the usage of various widgets, including text fields, buttons, switches, checkboxes, radio buttons, sliders, dropdown menus, and gestures.
+
+Features
+
+TextField for user input
+
+Buttons to display and modify images
+
+Switch and Checkbox for boolean options
+
+Radio buttons for selection
+
+Progress indicator with start/finish control
+
+Slider for numeric selection
+
+Time and Date picker
+
+Dropdown menu for country selection
+
+Gesture detection for tap, double tap, and long press
+
+Screenshot
+
+![App Screenshot](assets/widget.png)
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/yourusername/widget-usage-app.git
+
+Navigate to the project directory:
+
+cd widget-usage-app
+
+Install dependencies:
+
+flutter pub get
+
+Run the app:
+
+flutter run
+
+Requirements
+
+Flutter SDK
+
+Dart SDK
+
+Compatible IDE (VS Code, Android Studio, etc.)
+
+License
+
+This project is licensed under the MIT License.
 
 ## Getting Started
 
