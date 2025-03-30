@@ -26,7 +26,7 @@ Gesture detection for tap, double tap, and long press
 
 Screenshot
 
-![App Screenshot](assets/widget.png)
+![Widget Image](images/widget.png)
 
 Installation
 
